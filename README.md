@@ -213,7 +213,7 @@ This analysis demonstrates that customer churn is predictable and preventable wi
 **Sangamesh Dadge**  
 📧 Email: sangameshdadge2003@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/sangamesh-dadge-736050251/  
-🐙 GitHub: [@yourusername]
+🐙 GitHub: sangamesh-Analytics
 
 ---
 
