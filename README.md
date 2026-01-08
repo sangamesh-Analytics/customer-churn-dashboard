@@ -1,12 +1,12 @@
-**📊 Bank Customer Churn Analysis Dashboard**
+ Bank Customer Churn Analysis Dashboard
 
-**📌 Overview**
+ Overview
 
 This project focuses on analyzing bank customer churn using interactive data visualizations. The dashboard provides insights into customer behavior and identifies patterns that contribute to customer attrition. It helps stakeholders understand who is leaving, why they are leaving, and which segments are most at risk.
 
 The analysis is based on 10,000 bank customers and highlights churn trends across demographics, financial attributes, and customer activity.
 
-**🎯 Objectives**
+ Objectives
 
 Analyze customer churn rate and key influencing factors
 
@@ -14,7 +14,7 @@ Identify high-risk customer segments
 
 Support data-driven decision-making for customer retention strategies
 
-**📈 Dashboard Highlights**
+ Dashboard Highlights
 
 Total Customers: 10,000
 
@@ -22,25 +22,25 @@ Overall Churn Rate: 20.37%
 
 Interactive Churn Status Filter
 
-**Key Visual Insights:
-**
-👤 Customer Distribution by Gender
+Key Visual Insights:
 
-⚡ Active vs Inactive Customers
+ Customer Distribution by Gender
 
-💳 Credit Card Ownership Analysis
+ Active vs Inactive Customers
 
-🌍 Customer Distribution by Country (France, Germany, Spain)
+ Credit Card Ownership Analysis
 
-📦 Product Usage Analysis
+ Customer Distribution by Country (France, Germany, Spain)
 
-🎂 Churn Rate by Age Groups
+ Product Usage Analysis
 
-💰 Churn Analysis by Account Balance Ranges
+ Churn Rate by Age Groups
 
-💵 Churn Trends by Estimated Salary Ranges
+ Churn Analysis by Account Balance Ranges
 
-**🧠 Key Insights**
+ Churn Trends by Estimated Salary Ranges
+
+ Key Insights
 
 Higher churn observed among inactive customers
 
@@ -52,7 +52,7 @@ Churn varies significantly across countries
 
 Credit card ownership shows correlation with customer retention
 
-**🛠 Tools & Technologies**
+Tools & Technologies
 
 Power BI – Data visualization & dashboard creation
 
@@ -62,7 +62,7 @@ Excel / CSV – Source data format
 
 
 
-**📌 Use Cases**
+ Use Cases
 
 Banking & Financial Analytics
 
@@ -70,10 +70,10 @@ Customer Retention Strategy
 
 Data Analyst / Data Engineer Portfolio Project
 
-**📷 Dashboard Preview**
+ Dashboard Preview
 
 <img width="1540" height="861" alt="Screenshot 2025-12-16 133952" src="https://github.com/user-attachments/assets/be275e3c-9b0c-47a0-946f-df745fde39ef" />
 
-**🤝 Contributions**
+ Contributions
 
 Contributions, suggestions, and improvements are welcome!
